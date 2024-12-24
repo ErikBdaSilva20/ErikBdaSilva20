@@ -21,3 +21,5 @@ Tenho **19 anos** e comecei minha jornada na programação há **3 meses**. Ao l
 
 💼 **Conecte-se comigo**:  
 [LinkedIn - Erik Borges da Silva](https://www.linkedin.com/in/erik-borges-silva/)
+
+[![Erik Status](https://github-readme-stats.vercel.app/api?username=ErikBdaSilva20)](https://github.com/anuraghazra/github-readme-stats)
