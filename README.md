@@ -2,7 +2,7 @@
 
 Meu nome é **Erik Borges da Silva**, sou programador | Desenvolvedor Junior, e atualmente estou aprendendo sobre **Front-End** com as tecnologias **HTML**, **CSS**, **JavaScript** e **Bootstrap**.
 
-Tenho **19 anos** e comecei minha jornada na programação há **3 meses**. Ao longo desse tempo, estive trabalhando em **projetos práticos**, onde busco sempre aprimorar minhas **hard skills**.
+Tenho **19 anos** e comecei minha jornada na programação há *4 meses**. Ao longo desse tempo, estive trabalhando em **projetos práticos**, onde busco sempre aprimorar minhas **hard skills**.
 
 🔧 **Habilidades**  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
