@@ -1,6 +1,6 @@
 # Olá Devs! 👋
 
-Meu nome é **Erik Borges da Silva**, sou um ** Programador | Desenvolvedor Front-End** e atualmente estou me aprofundando nas tecnologias **HTML 5**, **CSS 3**, **JavaScript**, **Bootstrap** e **React**.
+Meu nome é **Erik Borges da Silva**, sou um <strong>Programador | Desenvolvedor Front-End</strong> e atualmente estou me aprofundando nas tecnologias **HTML 5**, **CSS 3**, **JavaScript**, **Bootstrap** e **React**.
 
 Tenho 20 anos e iniciei minha jornada na programação há **7 meses**. Durante esse tempo, venho me dedicando a **projetos práticos**, buscando sempre aprimorar meus conhecimentos e expandir minhas habilidades. Estou entusiasmado com as possibilidades que o mundo da programação oferece, estou comprometido em aprender o máximo possivel.
 
