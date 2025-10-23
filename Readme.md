@@ -1,35 +1,61 @@
-# Olá Devs! 👋
+# 👋 Olá Visitante!
 
-Meu nome é **Erik Borges da Silva**, sou um <strong>Programador | Desenvolvedor Front-End</strong> e atualmente estou me aprofundando nas tecnologias **HTML 5**, **CSS 3**, **JavaScript**, **Bootstrap** e **React**.
+Meu nome é **Erik Borges da Silva**, sou um **Desenvolvedor Front-End** apaixonado por criar interfaces modernas, responsivas e com foco em **UI/UX**.  
+Atualmente, estou me aprofundando em **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **React**, **Tailwind CSS** e **TypeScript**, e busco sempre evoluir através de projetos práticos e estudos contínuos.
 
-Tenho 20 anos e iniciei minha jornada na programação há **7 meses**. Durante esse tempo, venho me dedicando a **projetos práticos**, buscando sempre aprimorar meus conhecimentos e expandir minhas habilidades. Estou entusiasmado com as possibilidades que o mundo da programação oferece, estou comprometido em aprender o máximo possivel.
+Tenho **20 anos** e iniciei minha jornada na programação há **8 meses**.  
+Meu objetivo é transformar ideias em projetos reais, criando **interfaces bonitas, funcionais e performáticas**, aplicando boas práticas de código.
 
-## 🔧 Habilidades
--  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
--  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
--  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
--  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
--  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
--  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
--  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
--  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
--  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-## 🔍 Em busca de aprimorar  
--  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
--  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
--  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
--  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
--  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
--  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
--  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+## 🎯 Objetivo
+Continuar evoluindo como **Front-End Developer**, com foco em:
+- **React**  
+- **UI/UX**  
+- **Responsividade**  
+- **Performance**  
+- Código limpo e de fácil manutenção
 
+---
+
+## 🛠️ Tecnologias
+
+### Front-End
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### Ferramentas & Design
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+- ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
+
+### Sistema Operacional
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+
+---
 
 ## 💼 Conecte-se comigo
+- [LinkedIn - Erik Borges da Silva](https://www.linkedin.com/in/erik-borgessilva20)  
+- [GitHub - ErikBdaSilva20](https://github.com/ErikBdaSilva20)  
 
-- [LinkedIn - Erik Borges da Silva](https://www.linkedin.com/in/erik-borges-silva/)
+---
 
-## 📊 Minhas Estatísticas
+## 📈 Estatísticas e Atividade
 
-[![Erik Status](https://github-readme-stats.vercel.app/api?username=ErikBdaSilva20)](https://github.com/anuraghazra/github-readme-stats)
+### Estatísticas gerais
+- ![Erik Status](https://github-readme-stats.vercel.app/api?username=ErikBdaSilva20&show_icons=true&theme=tokyonight)
 
+### Linguagens mais usadas
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBdaSilva20&layout=compact&theme=tokyonight)
+
+### Trophy Board
+- ![Trophy Board](https://github-profile-trophy.vercel.app/?username=ErikBdaSilva20&theme=tokyonight&no-bg=true&no-frame=true&row=1)
+
+### Status de perfil
+- ![Perfil Ativo](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
