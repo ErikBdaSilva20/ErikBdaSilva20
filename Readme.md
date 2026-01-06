@@ -1,61 +1,62 @@
-# 👋 Olá, Visitante! Seja bem-vindo ao meu GitHub
+# 👋 Olá! Seja bem-vindo ao meu GitHub
 
-Meu nome é **Erik Borges da Silva**, sou um **Desenvolvedor Front-End** focado em criar interfaces modernas, responsivas, otimizadas e com excelente experiência para o usuário.  
-Atualmente estudo e desenvolvo projetos com **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React**, **Tailwind CSS**, **Bootstrap** e ferramentas de UI/UX.
+Meu nome é **Erik Borges**, sou **Desenvolvedor Full Stack** com foco em construir **aplicações modernas, seguras e bem estruturadas**, tanto no backend quanto no frontend.
 
-Tenho **20 anos** e comecei minha jornada na programação há **1 ano**, sempre buscando evoluir com prática e projetos reais.  
-Meu foco é transformar ideias em aplicações funcionais, performáticas e bem estruturadas, aplicando **boas práticas de código** e pensando sempre na experiência do usuário.
+Tenho experiência no desenvolvimento de **sistemas completos**, lidando com autenticação, regras de negócio, integrações externas, dashboards e comunicação em tempo real, sempre aplicando boas práticas de código, organização e segurança.
 
 ---
 
-## 🎯 Objetivo Profissional
-Continuar evoluindo como **Front-End Developer**, com foco em:
-- ⚛️ React  
-- 🎨 UI/UX  
-- 📱 Responsividade  
-- ⚡ Performance  
-- 🧼 Código limpo e sustentável  
+## 🚀 O que eu faço
+- Desenvolvimento **Full Stack**
+- Criação de APIs REST escaláveis
+- Autenticação segura (JWT + Refresh Tokens)
+- Integração de pagamentos
+- Comunicação em tempo real (WebSockets)
+- Dashboards e interfaces responsivas
+- Organização de projetos e fluxo Git
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧠 Tecnologias
 
-### **Front-End**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🧩 Backend
+- Node.js + TypeScript
+- Express.js
+- MongoDB (Mongoose)
+- JWT Authentication
 
-### **Ferramentas & Design**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+### 🎨 Frontend
+- Next.js
+- React + TypeScript
+- Tailwind CSS
+- Axios
 
-### **Sistema Operacional**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
+
+## 🔐 Boas Práticas & Segurança
+- Hash de senhas com bcrypt
+- JWT com access e refresh tokens
+- CORS por ambiente
+- Validação de dados (Zod / Joi)
+- Código limpo e modular
+
+---
+
+## 🛠️ Ferramentas
+- Git & GitHub (fluxo com `main`, `dev`, `feature`)
+- Figma
+- Postman
+- insomnia
+- VS Code
 
 ---
 
 ## 💼 Conecte-se comigo
-- 🔗 **LinkedIn:** [Erik Borges da Silva](https://www.linkedin.com/in/erik-borgessilva20)  
-- 🐙 **GitHub:** [ErikBdaSilva20](https://github.com/ErikBdaSilva20)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/erik-borgessilva20
+- 🐙 GitHub: https://github.com/ErikBdaSilva20
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-### ⭐ Estatísticas Gerais
-![Erik Status](https://github-readme-stats.vercel.app/api?username=ErikBdaSilva20&show_icons=true&theme=tokyonight)
-
-### 🔥 Linguagens Mais Usadas
+## 📈 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikBdaSilva20&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBdaSilva20&layout=compact&theme=tokyonight)
-
-### 🏆 Trophy Board
-![Trophy Board](https://github-profile-trophy.vercel.app/?username=ErikBdaSilva20&theme=tokyonight&no-bg=true&no-frame=true&row=1)
-
-### 🟢 Status de Perfil
-![Perfil Ativo](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
-
----
