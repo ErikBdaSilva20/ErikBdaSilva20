@@ -103,6 +103,7 @@ Seja pra projeto, oportunidade ou até pra trocar ideia sobre tech:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/erik-borgessilva20)
 - 🐙 [GitHub](https://github.com/ErikBdaSilva20)
+- 🔗 [Portifólio](https://erikbdsilva-hg-online.vercel.app/)
 - 📫 E-mail: **erik.silvadesenvolvedor**
 
 ---
