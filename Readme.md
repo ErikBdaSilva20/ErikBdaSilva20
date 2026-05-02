@@ -31,6 +31,9 @@ Pra mim, código bom é aquele que é **limpo, performático e fácil de dar man
 - **Tempo real**: Firebase, Convex e WebSockets  
 - **Autenticação & segurança**: JWT, OAuth e validação com Zod  
 
+### ⚙️ Automação com IA
+- **N8N**: Fluxos automatizados com inteligência artificial  
+
 ---
 
 ## 🔐 Diferenciais
