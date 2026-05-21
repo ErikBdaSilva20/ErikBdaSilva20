@@ -1,4 +1,4 @@
-# Erik Silva — Desenvolvedor Full Stack | React, Next, Node e automações
+# Erik Silva — Desenvolvedor Full Stack | React, Next, NodeJs, Automações & Fluxos com n8n
 
 Comecei minha trajetória focando no front-end com React e Next.js, mas logo percebi que para entregar produtos completos eu precisava dominar o que acontece por trás da tela. Hoje, desenvolvo sistemas de ponta a ponta. Minha prioridade é construir código claro, fácil de dar manutenção e que entregue uma interface simples para quem vai usar a aplicação no dia a dia.
 
@@ -19,7 +19,7 @@ Além do básico, aqui estão algumas coisas que implemento com frequência nos 
 ## ⚙️ Tech Stack
 
 - **Linguagens e Frameworks:** React, Next.js, TypeScript e Node.js.
-- **Frontend e UI:** Tailwind CSS, Styled Components e bibliotecas de componentes como Radix/Shadcn.
+- **Frontend e UI:** Tailwind CSS, Styled Components, Shadcn, Tanstack.
 - **Backend e Dados:** Fastify, Prisma ORM, PostgreSQL, MongoDB, Convex e Supabase.
 - **Ferramentas:** Git, Docker e n8n.
 
