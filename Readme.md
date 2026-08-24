@@ -16,7 +16,7 @@ segurança, manutenibilidade e produtos que rodam com dinheiro real envolvido.
 
 ---
 
-## 🇧🇷 Sobre
+## Sobre
 
 Há dois anos construindo sistemas full stack - do banco de dados à interface,
 com foco em código que não vira dívida técnica depois de três meses. Trabalho como PJ
