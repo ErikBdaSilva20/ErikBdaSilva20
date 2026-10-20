@@ -1,11 +1,13 @@
 <div align="center">
 
 # Erik Silva
-### Full Stack Developer - React · Next.js · Node.js · Automações (n8n)
+### Fundador & Head de Engenharia - Vexiom
 
-Construo sistemas de ponta a ponta - do modelo de dados à interface - priorizando
-segurança, manutenibilidade e produtos que rodam com dinheiro real envolvido.
+Lidero a engenharia de uma empresa que constrói sistemas sob medida, automações
+com IA e produtos próprios - do modelo de dados à interface, para negócios onde
+um erro de permissão ou de cálculo custa dinheiro real, não só reputação.
 
+[![Vexiom](https://img.shields.io/badge/Vexiom-vexiomtech.com.br-FBD020?style=flat&logoColor=1A1A1A)](https://www.vexiomtech.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erik--borgessilva20-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-borgessilva20)
 [![Email](https://img.shields.io/badge/Email-erik.silvadesenvolvedor%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erik.silvadesenvolvedor@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ErikBdaSilva20-181717?style=flat&logo=github&logoColor=white)](https://github.com/ErikBdaSilva20)
@@ -18,14 +20,18 @@ segurança, manutenibilidade e produtos que rodam com dinheiro real envolvido.
 
 ## Sobre
 
-Há dois anos construindo sistemas full stack - do banco de dados à interface,
-com foco em código que não vira dívida técnica depois de três meses. Trabalho como PJ
-para um cliente fixo, além de projetos próprios e em parceria.
+Sou fundador e respondo pela engenharia da **[Vexiom](https://www.vexiomtech.com.br/)**,
+empresa que transforma a necessidade de negócio de clientes - autônomos, pequenas
+empresas e startups - em sistemas sob medida, automações e produtos próprios. Entrar
+na raiz do problema antes de escrever a primeira linha de código é a base de como a
+Vexiom trabalha, e é a mesma disciplina que usei nos dois anos anteriores construindo
+sistemas full stack de ponta a ponta, como contratado PJ e em projetos próprios.
 
 O que me interessa não é só "fazer funcionar" - é entender onde o sistema quebra
 sob uso real e corrigir antes que isso vire prejuízo pra alguém. O case abaixo
 (Marketing Lab) mostra isso na prática: uma auditoria que eu mesmo conduzi contra
 banco de produção, achando e corrigindo falhas que os testes automatizados não pegavam.
+É esse padrão técnico que hoje carrego para dentro da Vexiom.
 
 ### Stack
 
@@ -47,7 +53,7 @@ banco de produção, achando e corrigindo falhas que os testes automatizados nã
 
 ---
 
-## 💼 Projeto em destaque - Marketing Lab
+## 💼 Projeto que prova o padrão - Marketing Lab
 
 **Plataforma de e-learning full stack** com trilhas de curso, gamificação, comunidade
 em tempo real e um modelo de monetização por professor - sistema que roda uma
@@ -106,7 +112,7 @@ não pagou de novo - e adicionei testes permanentes para os dois lados.
 ### Nonno English
 Plataforma de gestão e aprendizado para escola de inglês, dividida em três pilares:
 landing page pública, portal do aluno (materiais, atividades, progresso) e painel do
-professor com ERP educacional completo — gestão de alunos, agendamento de aulas e
+professor com ERP educacional completo - gestão de alunos, agendamento de aulas e
 módulo financeiro (mensalidades, fluxo de caixa, gráficos de performance).
 
 `React (Vite) · Supabase (Postgres + Auth + Realtime) · Styled Components · Recharts`
@@ -123,23 +129,41 @@ módulo financeiro (mensalidades, fluxo de caixa, gráficos de performance).
 - **Rotas protegidas:** autenticação e controle de acesso via Supabase, isolando dados
   sensíveis (financeiro e de alunos) por perfil de usuário.
 - **Design system próprio:** paleta Forest Green & Gold, tipografia Inter, glassmorphism
-  e micro-animações — pensado para transmitir a sensação de produto premium, não só
+  e micro-animações - pensado para transmitir a sensação de produto premium, não só
   "sistema administrativo".
 
 </details>
 
 ---
 
+## 🚀 Vexiom
+
+Hoje esse padrão técnico vira empresa. Estou construindo a
+**[Vexiom](https://www.vexiomtech.com.br/)**: sites e sistemas sob medida, automações
+com inteligência artificial e produtos próprios para autônomos, pequenas empresas e
+startups em todo o Brasil. A promessa é simples - entender o problema do cliente na
+raiz antes de propor tecnologia, e acompanhar de perto do primeiro contato ao suporte
+pós-entrega.
+
+→ **[vexiomtech.com.br](https://www.vexiomtech.com.br/)**
+
+---
+
 ## 🇺🇸 About
 
-Two years building full stack systems - from database to interface, focused on code
-that doesn't become technical debt three months later. I work as an independent
-contractor for a fixed client, alongside my own and partnered projects.
+I'm the founder and lead engineering at **[Vexiom](https://www.vexiomtech.com.br/)**,
+a company that turns the real business needs of clients - freelancers, small
+businesses, and startups - into custom-built systems, automations, and in-house
+products. Getting to the root of the problem before writing a single line of code
+is how Vexiom operates, and it's the same discipline I built over the two years
+before founding it, delivering full stack systems from database to interface as an
+independent contractor and on my own projects.
 
 What drives me isn't just "making it work" - it's understanding where a system breaks
 under real usage and fixing it before it costs someone money. The case study below
 (Marketing Lab) shows this in practice: a self-run audit against a production database
-that found and fixed issues automated tests never caught.
+that found and fixed issues automated tests never caught. That's the technical standard
+I now bring into Vexiom.
 
 ### Stack
 **Frontend:** React, Next.js, TypeScript, Tailwind, Styled Components, shadcn/ui, TanStack
@@ -147,7 +171,7 @@ that found and fixed issues automated tests never caught.
 **Automation:** n8n, Telegram/WhatsApp bots, API integrations
 **Tools:** Git, Docker
 
-### Featured project — Marketing Lab
+### Featured project - Marketing Lab
 
 Full stack e-learning platform with course tracks, gamification, real-time community,
 and a per-teacher monetization model - a system that runs a real agency that sells
@@ -217,5 +241,16 @@ and a financial module (tuition, cash flow, performance charts).
   just an admin system.
 
 </details>
+
+### 🚀 Vexiom
+
+That technical standard is now a company. I'm building
+**[Vexiom](https://www.vexiomtech.com.br/)**: custom websites and systems, AI-driven
+automations, and in-house products for freelancers, small businesses, and startups
+across Brazil. The promise is simple - understand the client's problem at the root
+before proposing technology, and stay close from first contact through post-delivery
+support.
+
+→ **[vexiomtech.com.br](https://www.vexiomtech.com.br/)**
 
 <p align="center"><i>Sistemas que resolvem problema real, não só código que compila.</i></p>
